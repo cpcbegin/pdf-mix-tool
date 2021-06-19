@@ -676,9 +676,7 @@ void PdfEditor::m_impose_page(QPDFObjectHandle &outer_page_obj,
                 QPDFObjectHandle::Rectangle(
                     x, y,
                     x + page_width, y + page_height),
-                false,
-                true,
-                true);
+                false);
 
     if (!content.empty())
     {

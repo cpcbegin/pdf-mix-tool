@@ -28,6 +28,9 @@ Besides, it can also mix files alternating their pages, generate booklets,
 add white pages to a PDF file, delete pages from a PDF file, extract pages
 from a PDF file, edit the PDF document information.
 
+## Fork to compile in Ubuntu 20.04 LTS (cpcbegin)
+There is an error than avoid compile in lastest LTS distros, this fork only exist until next LTS.
+
 ## Useful links
 [Changelog/Roadmap](CHANGELOG.md)
 
